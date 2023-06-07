@@ -29,7 +29,7 @@ Use your own API key in file `index.tsx`. If you don't have it, please follow th
 
 ```ts
 Scrypt.init({
-  apiKey: 'YOUR_API_KEY',  // <---
+  apiKey: 'testnet_11uVhqiesimiENrLi8F2ljWcCahxzn4qHPLyrhY0VBwQMzlZ8',  // <---
   network: 'testnet'
 })
 ```
