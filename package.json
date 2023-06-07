@@ -1,7 +1,7 @@
 {
   "name": "voting",
   "version": "0.1.0",
-  "homepage": "/voting",
+  "homepage": "https://todriguez.github.io/voting",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
